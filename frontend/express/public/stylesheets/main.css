@@ -1902,6 +1902,7 @@ td.details:before { border: 8px solid rgba(194, 225, 245, 0); border-top-color: 
     -webkit-user-select:none;
     -moz-user-select:none;
     -ms-user-select: none;
+    user-select: none;
     text-align: left;
     white-space: nowrap;
     vertical-align: middle;
